@@ -26,7 +26,7 @@ The three variables are named varA, varB and varC, and are modelled using differ
 
 <br>
 
-For more details go to the [notebook](notebooks/Time Series Challenge.ipynb)
+For more details go to the [notebook](notebooks/Time%20Series%20Challenge.ipynb)
 
 ## Results
 
