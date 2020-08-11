@@ -15,7 +15,7 @@ Provide one month out forecasts for three time series variables provided in the 
 <br>
 
 <p align="center">
-    <img src='docs/time_series_input.png' width=875>
+    <img src='docs/time_series_input.png' width=600>
 </p>
 
 <br>
