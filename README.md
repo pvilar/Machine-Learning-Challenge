@@ -1,8 +1,8 @@
-# Time Series Challenge
+# Machine Learning Challenge
 
-This repository contains a solution to a Time Series Challenge I submitted during an interview process for a Data Scientist role.
+This repository contains a solution to a Machine Learning Challenge I submitted during an interview process for a Data Scientist role.
 
-The assignment had to be done in Jupyter Notebook format and completed in 48 hours.
+The assignment consists on making predictions using Time Series modeling and has to be done in Jupyter Notebook format and completed in 48 hours.
 
 ## Challenge
 
